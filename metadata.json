@@ -1,0 +1,8 @@
+{
+  "name": "سامانه مدیریت تیم و حضور و غیاب یار",
+  "description": "پنل جامع، مدرن و راست‌چین مدیریت پرسنل، کنترل تردد، ثبت حضور و غیاب، گزارش‌گیری و پروفایل اعضای تیم",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
